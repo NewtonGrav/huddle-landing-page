@@ -1,9 +1,9 @@
 //*************************** Colors ***************************
-$color_main: hsl(257, 40%, 49%) !default;
+$color__main: hsl(257, 40%, 49%) !default;
+$color__text: hsl(0, 0%, 100%) !default;
 
 
 //*************************** Fonts ***************************
-$font-size__small: 0.8rem;
 $font-weight__regular: 400 !default;
 $line-height__body: 1.45 !default;
 $line-height__headers: 1.15 !default;
