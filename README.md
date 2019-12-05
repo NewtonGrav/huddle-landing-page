@@ -1,4 +1,4 @@
-# Desaafio n°2 (Huddle landing page) de Frontend Mentor 
+# Desafío n°2 (Huddle landing page) de Frontend Mentor
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
